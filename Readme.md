@@ -13,7 +13,7 @@ https://expo.dev/artifacts/eas/8LHXFDYxg21jmTDW99r5M3.apk
 https://drive.google.com/file/d/1L24Uv981x_W-3gZUd3rcpYDEhkRxjX1h/view  
 
 - 💻 Source Code  
-https://github.com/rishabh1230/HackXIndia-Hackathon-2026  
+https://github.com/rishabh1230/RelocAI-Smart-Relocation-Intelligence-Platform
 
 ---
 
