@@ -1,4 +1,8 @@
 # 🌍 RelocAI — Smart Relocation Intelligence Platform
+<img width="250" height="500" alt="WhatsApp Image 2026-01-25 at 16 34 09 (2)" src="https://github.com/user-attachments/assets/f8f6a0d7-7b23-46be-b426-65f51b65f151" />
+<img width="250" height="500" alt="WhatsApp Image 2026-01-25 at 16 34 09 (3)" src="https://github.com/user-attachments/assets/9d9d4b47-d92a-4b9d-8fed-66fa80e91c83" />
+<img width="250" height="500" alt="WhatsApp Image 2026-01-25 at 16 34 09" src="https://github.com/user-attachments/assets/03997144-f50c-44e1-8a4e-76c87fe430a2" />
+ 
 
 RelocAI is an AI-driven mobile application that helps users seamlessly transition to a new city by recommending places that match their existing lifestyle preferences.
 
@@ -46,10 +50,6 @@ A --> B --> C --> D --> E --> F --> G --> H --> I --> J --> K
 ```
 
 ---
- width="716" height="1600" alt="WhatsApp Image 2026-01-25 at 16 34 09 (2)" src="https://github.com/user-attachments/assets/f8f6a0d7-7b23-46be-b426-65f51b65f151" />
-<img width="716" height="1600" alt="WhatsApp Image 2026-01-25 at 16 34 09 (3)" src="https://github.com/user-attachments/assets/9d9d4b47-d92a-4b9d-8fed-66fa80e91c83" />
-<img width="716" height="1600" alt="WhatsApp Image 2026-01-25 at 16 34 09" src="https://github.com/user-attachments/assets/03997144-f50c-44e1-8a4e-76c87fe430a2" />
- 
 ## 🚀 Core Workflow
 
 1. Capture user relocation context  
